@@ -18,11 +18,11 @@ h1   {
 }
 .info{
     display: table-cell;
-    width: 70%;
+    width: 60%;
     float: right;
 /*    height: 46px;*/
     vertical-align: middle;
-    text-align: center;
+    text-align: right;
     font-family: Andale Mono Regular;
 }
 
@@ -31,5 +31,5 @@ h1   {
     margin: auto;
     background-color:#F0F0F0; 
     vertical-align: middle; 
-    padding:10px 10px;
+    padding:3px 10px;
 }
