@@ -26,9 +26,9 @@ h1   {
 }
 
 .heading{
-    width: 80%;
+    width: 90%;
     margin: auto;
     background-color:#F0F0F0; 
     vertical-align: middle; 
-/*    padding:10px 10px;*/
+    padding:10px 10px;
 }
